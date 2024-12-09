@@ -1,1 +1,2 @@
-# My first Machine Learning project - AIS Vessel Prediction for TDT4173
+# My first Machine Learning project 
+## AIS Vessel Prediction for TDT4173
